@@ -9,3 +9,15 @@ const kInactiveCardColor = Color(0xff111328);
 const klabeltextStyle = TextStyle(fontSize: 18.0, color: Color(0xFF8d8e98));
 
 const kNumberTextStyle = TextStyle(fontSize: 50.0, color: Colors.white);
+
+const kButtonTextStyle = TextStyle(fontSize: 22.0, color: Colors.white);
+
+const kHeadingTextStyle =
+    TextStyle(fontSize: 45.0, color: Colors.white, fontWeight: FontWeight.bold);
+
+const kResulttextStyle =
+    TextStyle(color: Colors.green, fontSize: 25.0, fontWeight: FontWeight.bold);
+const kBMITextStyle =
+    TextStyle(fontSize: 60.0, color: Colors.white, fontWeight: FontWeight.bold);
+
+const kBodyTextStyle = TextStyle(fontSize: 25.0, color: Colors.white);
